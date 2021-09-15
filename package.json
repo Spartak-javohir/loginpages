@@ -1,0 +1,20 @@
+{
+  "name": "loginpages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spartak-javohir/loginpages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spartak-javohir/loginpages/issues"
+  },
+  "homepage": "https://github.com/Spartak-javohir/loginpages#readme"
+}
